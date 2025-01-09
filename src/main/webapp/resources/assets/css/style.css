@@ -1,0 +1,119 @@
+
+.fright
+{
+	float: right;
+}
+
+.column-in-center{
+    float: none;
+    margin: 0 auto;
+}
+
+.row-grid {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.badge-open
+{
+	color:#fff;
+	background-color:#1abc9c;
+	width: 120px; height: 20px; padding: 5px 5px 5px 5px; cursor: auto;
+}
+
+.badge-emailsent
+{
+	color:#fff;
+	background-color:#00BCD4;
+	width: 120px; height: 20px; padding: 5px 5px 5px 5px; cursor: auto;
+}
+
+.badge-followup
+{
+	color:#fff;
+	background-color:#9C27B0;
+	width: 120px; height: 20px; padding: 5px 5px 5px 5px; cursor: auto;
+}
+
+.badge-leads
+{
+	color:#fff;
+	background-color:#F48FB1;
+	width: 120px; height: 20px; padding: 5px 5px 5px 5px; cursor: auto;
+}
+
+.badge-notreachable
+{
+	color:#fff;
+	background-color:#FBC02D;
+	width: 120px; height: 20px; padding: 5px 5px 5px 5px; cursor: auto;
+}
+
+.badge-closed
+{
+	color:#fff;
+	background-color:#ff0000;
+	width: 120px; height: 20px; padding: 5px 5px 5px 5px; cursor: auto;
+}
+
+.badge-disqualified 
+{
+	color:#fff;
+	background-color:#323a46;
+	width: 120px; height: 20px; padding: 5px 5px 5px 5px; cursor: auto;
+}
+.badge-clientlive
+{
+	color:#fff;
+	background-color:#008000;
+	width: 120px; height: 20px; padding: 5px 5px 5px 5px; cursor: auto;
+}
+
+
+.badge-notinterested
+{
+	color:#fff;
+	background-color:#bf0000;
+}
+
+.badge-faxsent
+{
+	color:#fff;
+	background-color:#708090;
+}
+
+.badge-duplicate
+{
+	color:#fff;
+	background-color:#ff0000;
+}
+
+
+
+.badge-existingclient
+{
+	color:#fff;
+	background-color:#80ffff;
+}
+
+.badge-response
+{
+	color:#fff;
+	background-color:#90ee90;
+}
+
+.badge-voicemail
+{
+	color:#fff;
+	background-color:#7f00ff;
+}
+
+.stylewidth
+{
+	width:250px; 
+	word-wrap:break-word;
+}
+
+
+
+
